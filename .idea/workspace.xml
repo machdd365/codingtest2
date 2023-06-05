@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="345204aa-4650-4e14-837f-4be6221d9a40" name="변경" comment="" />
+    <list default="true" id="345204aa-4650-4e14-837f-4be6221d9a40" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SameNumHate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/김재경/Documents/code/codingtest"
+    "last_opened_file_path": "C:/Users/김재경/Documents/code/codingtest2"
   }
 }]]></component>
   <component name="RecentsManager">
