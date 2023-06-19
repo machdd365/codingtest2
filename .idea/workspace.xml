@@ -56,9 +56,22 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.CaesarCipher">
+  <component name="RunManager" selected="애플리케이션.DescendingOder">
     <configuration name="CaesarCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.CaesarCipher" />
+      <module name="codingtest2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DescendingOder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.DescendingOder" />
       <module name="codingtest2.main" />
       <extension name="coverage">
         <pattern>
@@ -85,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.DescendingOder" />
         <item itemvalue="애플리케이션.CaesarCipher" />
         <item itemvalue="애플리케이션.Main" />
       </list>
