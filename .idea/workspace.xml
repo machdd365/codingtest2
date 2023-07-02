@@ -58,7 +58,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.DescendingOder">
+  <component name="RunManager" selected="애플리케이션.CaesarCipher">
     <configuration name="CaesarCipher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.CaesarCipher" />
       <module name="codingtest2.main" />
